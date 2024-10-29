@@ -35,6 +35,7 @@ nav{
     height: 55px;
 }
 body {
+  width: 100vw;
   font-family: Tahoma;
   background-image: url(/img/outros/bg.jpg);
   background-repeat: repeat;
